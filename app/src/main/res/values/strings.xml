@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Princess Sumaya University</string>
+    <string name="et_enter_msg" />
+    <string name="btn_move_to_next_activity" />
+    <string name="spinner_title" />
+
+<string name="selected_item">Selected item:</string>
+
+<string-array name="Gender">
+    <item>Male</item>
+    <item>Female</item>
+</string-array>
+</resources>
